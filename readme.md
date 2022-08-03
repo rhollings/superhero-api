@@ -1,5 +1,5 @@
 # forked version
-Using this as back up in case master fails
+Using this as back up in case origin repo fails
 
 # superhero-api
 
